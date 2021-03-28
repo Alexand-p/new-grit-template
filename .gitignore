@@ -1,0 +1,11 @@
+node_modules/
+# IntellijIdea files
+.idea/
+.DS_Store
+.png
+samples/
+assets/img/
+.vs/
+.libs-package-json
+.yarnrc
+libs/
